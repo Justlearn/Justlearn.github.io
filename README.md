@@ -1,6 +1,6 @@
 # Codedancing
 
-This blog is created by Justlearn. The site is http://codedacning.com,and this blog is forked from [azerial](Azeril/azeril.github.io)
+This blog is forked from [azerial](https://github.com/Azeril/azeril.github.io) by Justlearn. My blog's site is http://codedacning.com
 
 ## Thanks
 
