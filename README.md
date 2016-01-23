@@ -1,6 +1,6 @@
-# Microdust 微尘
+# Codedancing
 
-This is a blog created by Azeril. The blog is live at [azeril.me](http://azeril.me/).
+This blog is created by Justlearn. The site is http://codedacning.com,and this blog is forked from [azerial](Azeril/azeril.github.io)
 
 ## Thanks
 
@@ -21,6 +21,6 @@ The blog used many tool/service,many thanks to:
 [Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
 
 Build your blog Step by step
-## Just write
 
-Start writing now！
+##Aim
+My aim to have my own blog by using GitPages is to learn how to use Jekyll and get acustomed with GitHub.
